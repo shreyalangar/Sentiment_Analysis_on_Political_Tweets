@@ -1,3 +1,6 @@
+# Sentiment Analysis on Political Tweets
+
+
 **Objective** : This project aims at performing Sentiment Analysis by analyzing datasets containing political tweets from all over India by the use of **NLP (Natural Language Processing)**.
 
 **Datasets** : The datasets folder contains 3 CSV files: Narendra Modi_data.csv (Leader of BJP), Rahul Gandhi_data.csv (Leader of INC), Arvind Kejriwal_data.csv (leader of AAP). Each file contains 70k tweets respectively.
